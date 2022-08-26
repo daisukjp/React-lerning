@@ -4,8 +4,8 @@ function App() {
   return (
     <div>
       {/*<TextInput />*/}
-      {/* <BadCounter />
-      <Counter /> */}
+      {/* <BadCounter /> */}
+      {/* <Counter />  */}
       <ToggleButton />
     </div>
   );
